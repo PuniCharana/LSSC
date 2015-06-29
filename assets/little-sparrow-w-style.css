@@ -1,0 +1,15 @@
+.lssc-w-connect {
+	width: auto;
+	height: auto;
+}
+.lssc-w-connect ul {
+	margin-left: -2em;
+	list-style-type: none;
+}
+.lssc-w-connect ul li {
+	display: inline-block;
+	margin: 0.5em;
+}
+.lssc-w-connect ul li a {
+	font-family: 'fontawesome';
+}

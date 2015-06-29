@@ -1,0 +1,15 @@
+.lssc-db-share {
+	width: auto;
+	height: auto;
+}
+.lssc-db-share ul {
+	margin-left: -2em;
+	list-style-type: none;
+}
+.lssc-db-share ul li {
+	display: inline-block;
+	margin: 0.5em;
+}
+.lssc-db-share ul li a {
+	font-family: 'fontawesome';
+}
